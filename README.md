@@ -1,4 +1,4 @@
-# PeopleDemo
+# People API Demo
 
 Technologies Used:
 .NET Core 2.0,
